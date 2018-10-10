@@ -1,2 +1,2 @@
 # gitskills
-# creating a new branch is dev
+# creating a new branch is quick & simple.
